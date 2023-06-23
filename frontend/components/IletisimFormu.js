@@ -67,7 +67,7 @@ const IletisimFormu = () => {
       [e.target.name]: e.target.value
     });
   };
-
+  //throw new Error("abc");
   return (
     <div className="App">
       <h1>İletişim Formu</h1>
